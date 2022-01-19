@@ -10,5 +10,12 @@ a {
 
 }
 .kkhmm{
-    color: gold !important;
+    color: gold !important;}
+
+.b{
+    color: red;
+}
+.mynav{
+    color: aqua;
+    font-size: 22px;
 }
